@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "updated": "2026-08-25T16:26:11.988518+07:00",
+  "healthy": 2,
+  "attention": 3,
+  "projects": [
+    {
+      "identifier": "bsky",
+      "name": "Bluesky",
+      "status": "degraded"
+    },
+    {
+      "identifier": "mos2",
+      "name": "MoS\u2082",
+      "status": "degraded"
+    },
+    {
+      "identifier": "book_promotion",
+      "name": "Book Promotion",
+      "status": "healthy"
+    },
+    {
+      "identifier": "portfolio",
+      "name": "Portfolio",
+      "status": "degraded"
+    },
+    {
+      "identifier": "daily_wake",
+      "name": "Daily Wake",
+      "status": "healthy"
+    }
+  ]
+}
