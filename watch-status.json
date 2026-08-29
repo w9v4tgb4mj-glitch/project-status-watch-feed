@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated": "2026-08-29T18:26:41.143892+07:00",
-  "healthy": 4,
-  "attention": 1,
+  "updated": "2026-08-29T20:28:03.208986+07:00",
+  "healthy": 3,
+  "attention": 2,
   "projects": [
     {
       "identifier": "bsky",
       "name": "Bluesky",
-      "status": "healthy"
+      "status": "failed"
     },
     {
       "identifier": "mos2",
