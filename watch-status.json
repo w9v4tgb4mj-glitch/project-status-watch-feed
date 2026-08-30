@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated": "2026-08-30T15:27:51.349405+07:00",
-  "healthy": 4,
-  "attention": 1,
+  "updated": "2026-08-30T17:19:25.402242+07:00",
+  "healthy": 2,
+  "attention": 3,
   "projects": [
     {
       "identifier": "bsky",
       "name": "Bluesky",
-      "status": "healthy"
+      "status": "failed"
     },
     {
       "identifier": "mos2",
@@ -17,7 +17,7 @@
     {
       "identifier": "book_promotion",
       "name": "Book Promotion",
-      "status": "healthy"
+      "status": "degraded"
     },
     {
       "identifier": "portfolio",
