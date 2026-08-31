@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "updated": "2026-08-31T13:57:48.428304+07:00",
-  "healthy": 4,
-  "attention": 1,
+  "updated": "2026-08-31T13:59:15.345971+07:00",
+  "healthy": 5,
+  "attention": 0,
   "projects": [
     {
       "identifier": "bsky",
@@ -12,7 +12,7 @@
     {
       "identifier": "mos2",
       "name": "MoS\u2082",
-      "status": "degraded"
+      "status": "healthy"
     },
     {
       "identifier": "book_promotion",
