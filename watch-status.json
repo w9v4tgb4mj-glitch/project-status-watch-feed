@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated": "2026-09-03T11:23:59.057417+07:00",
-  "healthy": 3,
-  "attention": 2,
+  "updated": "2026-09-03T11:27:40.333743+07:00",
+  "healthy": 5,
+  "attention": 0,
   "projects": [
     {
       "identifier": "bsky",
       "name": "Bluesky",
-      "status": "degraded"
+      "status": "healthy"
     },
     {
       "identifier": "mos2",
@@ -22,7 +22,7 @@
     {
       "identifier": "portfolio",
       "name": "Portfolio",
-      "status": "degraded"
+      "status": "healthy"
     },
     {
       "identifier": "daily_wake",
