@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "updated": "2026-09-08T17:15:05.790425+07:00",
-  "healthy": 3,
-  "attention": 2,
+  "updated": "2026-09-08T18:15:05.644645+07:00",
+  "healthy": 4,
+  "attention": 1,
   "projects": [
     {
       "identifier": "bsky",
@@ -22,7 +22,7 @@
     {
       "identifier": "portfolio",
       "name": "Portfolio",
-      "status": "degraded"
+      "status": "healthy"
     },
     {
       "identifier": "daily_wake",
