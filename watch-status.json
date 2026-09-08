@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-09-08T13:26:47.528801+07:00",
+  "updated": "2026-09-08T14:15:05.915622+07:00",
   "healthy": 4,
   "attention": 1,
   "projects": [
@@ -12,7 +12,7 @@
     {
       "identifier": "mos2",
       "name": "MoS\u2082",
-      "status": "degraded"
+      "status": "failed"
     },
     {
       "identifier": "book_promotion",
