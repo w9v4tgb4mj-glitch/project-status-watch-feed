@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "updated": "2026-09-09T13:15:00.858234+07:00",
-  "healthy": 3,
-  "attention": 2,
+  "updated": "2026-09-09T14:15:05.769859+07:00",
+  "healthy": 1,
+  "attention": 4,
   "projects": [
     {
       "identifier": "bsky",
@@ -17,12 +17,12 @@
     {
       "identifier": "book_promotion",
       "name": "Book Promotion",
-      "status": "healthy"
+      "status": "degraded"
     },
     {
       "identifier": "portfolio",
       "name": "Portfolio",
-      "status": "healthy"
+      "status": "degraded"
     },
     {
       "identifier": "daily_wake",
